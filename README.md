@@ -6,7 +6,7 @@ Atualmente estou finalizando a Graduação Tecnológica em Análise e Desenvolvi
 
 Outros assuntos que tenho pesquisado são: cultura DevOps, principalmente conteúdos Docker, Kubernetes e OpenShift e cloud (GCP, AWS e Azure). 
 
-Aqui no Github vou hospedar meus projetos pessoais e estudos. Vou tentar condensar nesses pequenos projetos os conhecimentos que venho adquirindo para tentar mostrar a minha evolução como desenvolvedora Java para Web.
+Aqui no Github vou hospedar meus projetos pessoais e estudos. Vou tentar condensar nesses pequenos projetos os conhecimentos que venho adquirindo para mostrar a minha evolução como desenvolvedora Java para Web.
 
 
 
