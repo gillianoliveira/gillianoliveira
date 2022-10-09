@@ -1,12 +1,7 @@
 # :wave: Bem-vindo(a) ao meu Github!
 
-Olá, me chamo Gillian e sou estagiária de desenvolvimento Java. Tive contato com outras linguagens antes como, por exemplo, Phython, Kotlin, TypeScript e Javascript, mas a que eu estudo diariamente e me identifico é o Java. Já fiz diversos bootcamps na plataforma da [DIO](https://www.dio.me/), muitos cursos na plataforma da [Alura](https://www.alura.com.br/), da [Udemy](https://www.udemy.com/) e também do [LinkedIn Learning](https://www.linkedin.com/learning). Estou sempre em busca de aprimoramento. 
 
-Atualmente estou finalizando a Graduação Tecnológica em Análise e Desenvolvimento de Sistemas na [Anhaguera](https://www.anhanguera.com/) e estou aprendendo tecnologias relacionadas ao frontend, como Angular(aplicações client-side) e o Thymeleaf(aplicações server-side).
-
-Outros assuntos que tenho pesquisado são: cultura DevOps, principalmente conteúdos Docker, Kubernetes e OpenShift e cloud (GCP, AWS e Azure). 
-
-Aqui no Github vou hospedar meus projetos pessoais e estudos. Vou tentar condensar nesses pequenos projetos os conhecimentos que venho adquirindo para mostrar a minha evolução como desenvolvedora Java para Web.
+Aqui no Github vou hospedar meus projetos pessoais e estudos.
 
 
 
