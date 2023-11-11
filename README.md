@@ -12,7 +12,7 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 ![Java](https://img.shields.io/badge/Java-E34F26?&style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Planilhas e DataViz
+### Planilhas e Visualização de Dados
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
