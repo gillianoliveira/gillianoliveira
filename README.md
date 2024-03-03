@@ -1,5 +1,5 @@
 # 👋🏼Gillian Gomes
-Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou formada em Análise e Desenvolvimento de Sistemas e fiz um MBA em Engenharia de Dados. Tenho interesse em me tornar Cientista de Dados, mas esse ainda é um objetivo muito distante. Abaixo estão as tecnologias com as quais tenho mais contato atualmente. 
+Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou formada em Análise e Desenvolvimento de Sistemas e fiz um MBA em Engenharia de Dados. Adoro poder usar dados para criar visualizações que ajudem a proporcionar insights sobre problemas de negócios. Quanto mais difícil, mais interessante fica. Estou sempre buscando aprender coisas novas que possam tornar meu trabalho mais produtivo e divertido. Atualmente venho estudando R, GCP, DAX e Python.
 
 
 ## Habilidades
