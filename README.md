@@ -1,4 +1,4 @@
-# 👋🏼Gillian Gomes
+# 👋🏼Gillian Oliveira
 Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou formada em Análise e Desenvolvimento de Sistemas e fiz um MBA em Engenharia de Dados. Adoro poder usar dados para criar visualizações que ajudem a proporcionar insights sobre problemas de negócios. Quanto mais difícil, mais interessante fica. Estou sempre buscando aprender coisas novas que possam tornar meu trabalho mais produtivo e divertido. Atualmente venho estudando R, GCP, DAX e Python.
 
 
@@ -29,7 +29,7 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 ### Marcação e Estilo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=fff)](https://www.linkedin.com/in/brgillian/)
+[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=fff)](https://www.linkedin.com/in/gillianoliveira/)
 
 ## Github Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=brgillian&theme=blue-green&background=16161f&border=0ab3d1&dates=e5e5e0&currStreakNum=D1640A&currStreakLabel=D1640A)
