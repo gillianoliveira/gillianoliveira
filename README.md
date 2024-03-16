@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # 👋🏼Gillian Oliveira
 Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou formada em Análise e Desenvolvimento de Sistemas e fiz um MBA em Engenharia de Dados. Tenho interesse em me tornar Cientista de Dados, mas esse ainda é um objetivo muito distante. Abaixo estão as tecnologias com as quais tenho mais contato atualmente. 
+=======
+# 👋🏼Gillian Gomes
+Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou formada em Análise e Desenvolvimento de Sistemas e fiz um MBA em Engenharia de Dados. Adoro poder usar dados para criar visualizações que ajudem a proporcionar insights sobre problemas de negócios. Quanto mais difícil, mais interessante fica. Estou sempre buscando aprender coisas novas que possam tornar meu trabalho mais produtivo e divertido. Atualmente venho estudando R, GCP, DAX e Python.
+>>>>>>> 148d783002831541a335eed5ea05817e6ad41076
 
 
 ## Habilidades
@@ -8,11 +13,10 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E34F26?&style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Planilhas e DataViz
+### Planilhas e Visualização de Dados
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
