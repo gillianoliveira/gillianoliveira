@@ -1,4 +1,4 @@
-# 👋🏼Gillian Gomes
+# 👋🏼Gillian Oliveira
 Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou formada em Análise e Desenvolvimento de Sistemas e fiz um MBA em Engenharia de Dados. Tenho interesse em me tornar Cientista de Dados, mas esse ainda é um objetivo muito distante. Abaixo estão as tecnologias com as quais tenho mais contato atualmente. 
 
 
@@ -36,7 +36,7 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/brgillian/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gillianoliveira/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/brgillian)
 
 
