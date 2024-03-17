@@ -4,7 +4,7 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 
 
 ## Habilidades
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brgillian&layout=compact&theme=nightowl)](https://github.com/brgillian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brgillian&layout=compact&theme=nightowl)](https://github.com/gillianoliveira)
 
 
 ### Linguagens
@@ -24,7 +24,7 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 ### Cloud & CI/CD
 ![GCP](https://img.shields.io/badge/Google_Cloud_Platform-e5e5e0?style=for-the-badge&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/Docker-0095D5?style=for-the-badge&logo=docker&logoColor=white)
-[![Github](https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github)](https://github.com/brgillian) 
+[![Github](https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github)](https://github.com/gillianoliveira) 
 
 ### Marcação e Estilo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +37,7 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gillianoliveira/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/brgillian)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/gillianoliveira)
 
 
 
