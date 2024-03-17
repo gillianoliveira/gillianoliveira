@@ -4,7 +4,7 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 
 
 ## Habilidades
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brgillian&layout=compact&theme=nightowl)](https://github.com/gillianoliveira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gillianoliveira&layout=compact&theme=nightowl)](https://github.com/gillianoliveira)
 
 
 ### Linguagens
@@ -32,7 +32,7 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=fff)](https://www.linkedin.com/in/gillianoliveira/)
 
 ## Github Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=brgillian&theme=blue-green&background=16161f&border=0ab3d1&dates=e5e5e0&currStreakNum=D1640A&currStreakLabel=D1640A)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gillianoliveira&theme=blue-green&background=16161f&border=0ab3d1&dates=e5e5e0&currStreakNum=D1640A&currStreakLabel=D1640A)
 
 
 ## Conecte-se comigo
