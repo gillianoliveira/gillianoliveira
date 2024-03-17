@@ -22,7 +22,7 @@ Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=07405E)
 
 ### Cloud & CI/CD
-![GCP](https://img.shields.io/badge/Google_Cloud_Platform-e5e5e0?style=for-the-badge&logo=googlecloud)
+[![GCP](https://img.shields.io/badge/Google_Cloud_Platform-e5e5e0?style=for-the-badge&logo=googlecloud)](https://partner.cloudskillsboost.google/public_profiles/62513d75-6599-45fb-97ff-f3ee2b43c17d)
 ![Docker](https://img.shields.io/badge/Docker-0095D5?style=for-the-badge&logo=docker&logoColor=white)
 [![Github](https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github)](https://github.com/gillianoliveira) 
 
