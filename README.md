@@ -1,5 +1,5 @@
 # 👋🏼Gillian Oliveira
-Oi, pessoal! Meu nome é Gillian, sou carioca, atuo como Analista de Dados, sou formada em Análise e Desenvolvimento de Sistemas e fiz um MBA em Engenharia de Dados. Adoro poder usar dados para criar visualizações que ajudem a proporcionar insights sobre problemas de negócios. Quanto mais difícil, mais interessante fica. Estou sempre buscando aprender coisas novas que possam tornar meu trabalho mais produtivo e divertido. Atualmente venho estudando R, GCP, DAX e Python.
+Meu nome é Gillian, sou carioca e atuo na área de tecnologia desde 2021. Fiz uma graduação plena em Desenho Industrial na Estácio (2010 -2014), finalizei a graduação tecnológica em Análise e Desenvolvimento de Sistemas na Anhanguera Educacional em 2022 e um MBA em Engenharia de Dados na mesma instituição em 2023. Atuei como estagiária de desenvolvimento em Java em uma grande empresa de tecnologia, onde tive a minha primeira oportunidade como profissional de dados. Lá eu atuei como Analista de Dados estagiária e depois como efetiva. Tenho interesse em estatística, matemática, desenvolvimento, novas tecnologias e análise de dados. Estou focada em estatística e desenvolvimento com a linguagem Python.
 
 
 
